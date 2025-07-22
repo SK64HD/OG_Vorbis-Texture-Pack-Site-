@@ -1,18 +1,16 @@
 const texturePacks = [
   {
-    name: "Blocky Texture Pack",
-    image: "assets/textures/blocky.jpg",
+    name: "Old 32x Menu Pack",
+    image: "assets/icons/placeholder",
     versions: [
-      { version: "v1.0", downloadUrl: "assets/texturepacks/blocky_v1.0.zip" },
-      { version: "v1.1", downloadUrl: "assets/texturepacks/blocky_v1.1.zip" }
+      { version: "v1", downloadUrl: "assets/NostalgicMenuPack32x.zip" }
     ]
   },
   {
-    name: "Smooth Textures",
-    image: "assets/textures/smooth.jpg",
+    name: "Ironic 32x",
+    image: "assets/icons/placeholder",
     versions: [
-      { version: "v2.0", downloadUrl: "assets/texturepacks/smooth_v2.0.zip" },
-      { version: "v2.1", downloadUrl: "assets/texturepacks/smooth_v2.1.zip" }
+      { version: "v1.0", downloadUrl: "assets/texturepacks/smooth_v2.1.zip" }
     ]
   },
   // Add more texture packs here
